@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @HyperPlan3
-- 👀 I’m interested in 🎸
-- 🌱 I’m currently learning 🛸
-- 💞️ I’m looking to collaborate on 🚀
 - 📫 How to reach me wenzhuo1122@foxmail.com
 <!---
 HyperPlan3/HyperPlan3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
